@@ -1,0 +1,39 @@
+/* Global styles ------------------------------------*/
+html{
+
+}
+
+body{
+	margin: 0;
+	font-family:helvetica, arial, roboto, sans-serif;
+	color: black;
+	background-color: white;
+	font-size: 30px;
+	background: white;
+}
+
+p{
+	margin-top: 0;
+	padding: 0px;
+	color: black;
+}
+
+a{
+	cursor: pointer;	
+}
+
+a:hover{
+	text-decoration: none;
+	color: blue;
+	cursor:pointer;
+}
+
+a:visited{
+  	color: blue;
+}
+
+.links{
+	display: none;
+}
+
+

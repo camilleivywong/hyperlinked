@@ -14,8 +14,6 @@ function displayLink(){
    }
 }
 
-  // for (var i = 0; i < LINKS.length; i++){
-
 
 
 

@@ -1,5 +1,5 @@
 function displayLink(){
-   var LINKS = document.getElementById("link");
+   var LINKS = document.getElementById("002");
 
    if (LINKS.style.display === "none") {
     LINKS.style.display = "block";
